@@ -1,6 +1,6 @@
-# KunMod
-A Unreal Engine Anime Game mods
+# WaveSonic
+A Unreal Engine Anime Game magic
 
 # Join Group
-[![Discord](https://discordapp.com/api/guilds/1079432683760930823/widget.png?style=shield)](https://discord.gg/QYu59wctHT)
+[![](https://dcbadge.vercel.app/api/server/QYu59wctHT)](https://discord.gg/QYu59wctHT)
 [![QQ群](https://i.postimg.cc/MGqtP1P8/image.png)](https://qm.qq.com/q/FVX6QpU5qi)
