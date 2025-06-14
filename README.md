@@ -1,4 +1,4 @@
-# KunMod
+# KunMod （The project has been sealed）
 A Unreal Engine Anime Game mods
 
 # Join Group
