@@ -1,4 +1,4 @@
-# WaveSonic
+# WaveSonic（The project has been sealed）
 A Unreal Engine Anime Game magic
 
 # Join Group
